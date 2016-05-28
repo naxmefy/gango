@@ -10,7 +10,7 @@ Go web framework - inspired by django, rails, koa and more...
 ## Documentation
 
 * [visit our page](http://www.nax.me/gango/)
-* [visit our wiki](/wiki)
+* [visit our wiki](https://github.com/naxmefy/gango/wiki)
 
 ## Contribution
 
